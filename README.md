@@ -1,5 +1,5 @@
 # Zotbins-Waste-Recognition
-Please go to the subdirectory for detailed instructions
+Please go to the subdirectories for detailed instructions
 
 [Waste Object Detection](https://github.com/zotbins/Zotbins-Waste-Recognition/tree/main/Object%20Detection)
 
