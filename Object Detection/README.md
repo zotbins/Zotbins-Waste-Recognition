@@ -22,6 +22,10 @@ then, follow the [Instruction](https://mmdetection.readthedocs.io/en/stable/get_
 
 
 ## Performance
+
+### Confusion Matrix
+![alt text][confusion_matrix.png]
+
 ```
  Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.733
  Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=1000 ] = 0.899
