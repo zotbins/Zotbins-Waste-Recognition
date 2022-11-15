@@ -24,7 +24,7 @@ then, follow the [Instruction](https://mmdetection.readthedocs.io/en/stable/get_
 ## Performance
 
 ### Confusion Matrix
-![alt text][confusion_matrix.png]
+![Alt text](https://github.com/zotbins/Zotbins-Waste-Recognition/blob/main/Object%20Detection/confusion_matrix.png)
 
 ```
  Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.733
